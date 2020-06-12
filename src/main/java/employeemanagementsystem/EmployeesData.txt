@@ -1,0 +1,28 @@
+1,Mohamed,9200,10/11/1999,Software Development
+6,Sara,5000,10/10/1996,HR
+11,Mohamed,6500,1/2/1983,IT
+3,Ali,3500,15/3/1980,IT
+5,Shimaa,3000,9/5/1974,Software Development
+2,Ahmed,2500,15/1/2000,HR
+7,Abdo,4500,22/12/1995,payroll
+4,Hossam,2000,6/4/1998,IT
+8,Gemy,4000,9/8/1991,Management
+15,mostafa,6200,12/3/1997,HR
+27,ossama,8500,22/8/1994,HR
+10,Mahmoud,3500,1/6/1993,payroll
+14,mahmoud,2400,1/5/1982,Management
+12,Esraa,1520,30/6/1993,HR
+9,Khaled,6500,11/7/1992,Management
+13,Abdelrahman,3900,12/6/1988,Software Development
+20,Abdel moneem,4900,11/6/1989,Management
+24,Alaa,6500,18/8/1998,payroll
+16,nada,3200,6/5/1995,payroll
+17,hussien,4000,6/7/1987,IT
+28,abdo,9200,11/9/1990,payroll
+25,Naser,2500,14/4/1991,IT
+22,sara,1500,15/6/1995,Software Development
+21,aya,1200,1/1/1980,payroll
+19,ahmed,3800,30/2/1993,IT
+23,salma,5500,10/8/1994,Management
+18,ali,1500,18/3/1992,Software Development
+26,omar,3700,1/6/1993,Management
